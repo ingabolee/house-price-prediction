@@ -1,0 +1,1 @@
+This is a classical ML problem on Kaggle. Consider a real estate company that has a dataset containing the prices of properties. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
